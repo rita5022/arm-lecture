@@ -5,8 +5,8 @@ int main()
 	int a, b, c;
 	a=10;
 	b=12;
-	c=add(a,b);
-	return 0;
+	c=div(a,b);
+	return c;
 }
 
 int add(int a, int b)
